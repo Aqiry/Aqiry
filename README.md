@@ -4,7 +4,7 @@
 
 Hello Everyone [Wasique](https://aqiry.github.io/) here. I love working on new projects, tools and technologies. Make sure to go through some of my repos and tell me if you wanna work on somehing with me, I would love to connect and work with you as I am a very easy person to reach out 🙂.
 
-<h2>🖥 Stuff I Love to work on</h2>
+<h2>🖥 Stuff I love to work on</h2>
 
 * Django
 * Machine Learning & Data Science
