@@ -31,7 +31,7 @@ I'd love to work on more technologies and prgramms as they interests me a lot bu
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="25" height="25" />
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="25" height="25" />
 
-## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Links
+## <img height="40" src="https://raw.githubusercontent.com/Aqiry/Aqiry/main/kyubey.gif"/> Links
 [![](https://img.shields.io/badge/-linkedin-0073B1?style=flat-square)](https://www.linkedin.com/in/aqiry/)
 [![](https://img.shields.io/badge/-twitter-1C9CEA?style=flat-square)](https://twitter.com/wasique78)
 [![](https://img.shields.io/badge/-instagram-cc0479?style=flat-square)](https://www.instagram.com/aqiry1/?hl=en)
