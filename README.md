@@ -10,7 +10,7 @@ Hello Everyone [Wasique](https://aqiry.github.io/) here. I love working on new p
 * Machine Learning & Data Science
 * Frontend and Backend Web Development 
 * Unreal Engine
-* Compatitive Coding
+* Competitive Coding
 
 I'd love to work on more technologies and prgramms as they interests me a lot but for now they would suffice 🤠.
 
