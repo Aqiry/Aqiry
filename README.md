@@ -1,4 +1,4 @@
-<h2> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30 " />  Hi, Welcome to my github Profile ! <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30 " /> </h2>
+<h2>  Hi, Welcome to my github Profile !  </h2>
 
 <img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" alt = 'Coding Boy' align='right'/>
 
